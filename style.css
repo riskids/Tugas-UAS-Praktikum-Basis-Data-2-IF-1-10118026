@@ -1,0 +1,62 @@
+/*imi jumbotrom*/
+.jumbotron{
+    /*background-image: url(img/anjay.jpg);*/
+    background-color: brown;
+    background-size: cover;
+    height: 870px;
+    margin-top: -120px;
+}
+
+.jumbotron .display-4{
+    margin-top: 80px;
+}
+.jumbotron p{
+    color: white;
+    font-size: 25px;
+}
+.jumbotron hr{
+    border-color: #007bff;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn{
+    background-color: #007bff;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+/*imi slider*/
+.carousel-item{
+    height: 750px;
+}
+.carousel-item img{
+    margin-top: -10px;
+}
+.carousel-item .display-4{
+    margin-top: -450px;
+}
+
+.carousel-item p{
+    color: white;
+    font-size: 25px;
+}
+.carousel-item hr{
+    border-color: #007bff;
+    width: 70px;
+    border-width: 3px;
+}
+.carousel-item .btn{
+    background-color: #007bff;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+
+/*icon*/
+.fa-facebook{
+    color: blue;
+}
